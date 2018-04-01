@@ -1,6 +1,7 @@
-SPIRAL DILEMMA
+# SPIRAL DILEMMA
 
 Final project on Game Development
 
-Joshua Daniel Tubalinal (github.com/hackerhaseo)
-Roman Tristan Pol (github.com/artipee)
+### Developed by:
+- [Joshua Daniel Tubalinal] (https://github.com/hackerhaseo)
+- [Roman Tristan Pol] (https://github.com/artipee)
