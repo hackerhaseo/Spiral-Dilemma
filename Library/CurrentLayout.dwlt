@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 56
+  controlID: 30
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -263,24 +263,24 @@ MonoBehaviour:
     width: 332
     height: 337
   m_TreeViewState:
-    scrollPos: {x: 0, y: 320}
-    m_SelectedIDs: cc1ffdff
-    m_LastClickedID: -188468
-    m_ExpandedIDs: e0fbffffe2fbffffe4fbffffe6fbffffe8fbffff00000000fa2a0000
+    scrollPos: {x: 0, y: 32}
+    m_SelectedIDs: cc7cfeff
+    m_LastClickedID: -99124
+    m_ExpandedIDs: defbffffe0fbffffe2fbffffe4fbffffe6fbffffe8fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Directional Light (2)
-      m_OriginalName: Directional Light (2)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -121342
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -290,6 +290,7 @@ MonoBehaviour:
   - level3
   - level4
   - level5
+  - level6
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -455,7 +456,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 334.9079}
+    m_ScrollPosition: {x: 0, y: 1577}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &14
@@ -566,9 +567,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 9.1525545, y: 39.549774, z: 7.0852547}
+    m_Target: {x: 5.5734553, y: 44.328907, z: 4.187603}
     speed: 2
-    m_Value: {x: 9.1525545, y: 39.549774, z: 7.0852547}
+    m_Value: {x: 5.5734553, y: 44.328907, z: 4.187603}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -591,13 +592,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.04340266, y: -0.95378757, z: 0.1694347, w: 0.24434793}
+    m_Target: {x: 0.1630412, y: -0.582815, z: 0.1207585, w: 0.7868719}
     speed: 2
-    m_Value: {x: 0.043402474, y: -0.95378345, z: 0.16943397, w: 0.24434689}
+    m_Value: {x: 0.16304074, y: -0.5828133, z: 0.12075816, w: 0.78686965}
   m_Size:
-    m_Target: 31.78839
+    m_Target: 26.253042
     speed: 2
-    m_Value: 31.78839
+    m_Value: 26.253042
   m_Ortho:
     m_Target: 0
     speed: 2
