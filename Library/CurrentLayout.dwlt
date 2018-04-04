@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 5}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -117,7 +117,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 686
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &6
 MonoBehaviour:
@@ -263,10 +263,10 @@ MonoBehaviour:
     width: 230
     height: 344
   m_TreeViewState:
-    scrollPos: {x: 0, y: 41}
-    m_SelectedIDs: dcfaffff
-    m_LastClickedID: -1316
-    m_ExpandedIDs: e6fbffffe8fbffff00000000
+    scrollPos: {x: 0, y: 61.090908}
+    m_SelectedIDs: 2061feff
+    m_LastClickedID: 0
+    m_ExpandedIDs: e4fbffffe6fbffffe8fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -287,6 +287,7 @@ MonoBehaviour:
   m_ExpandedScenes:
   - level1
   - level2
+  - level3
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -369,7 +370,7 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\Joshua\Documents\Unity Files\Final Project\Spiral Dilemma
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 75}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d6240000
     m_LastClickedID: 9430
     m_ExpandedIDs: 00000000d62400002825000094250000d02700000628000066280000102900002629000000ca9a3bffffff7f
@@ -427,7 +428,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -452,7 +453,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 1391}
+    m_ScrollPosition: {x: 0, y: 1066.5}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &14
@@ -563,9 +564,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 8.636192, y: 24.679777, z: 11.374595}
+    m_Target: {x: 16.738256, y: 31.697594, z: 7.289341}
     speed: 2
-    m_Value: {x: 8.636192, y: 24.679777, z: 11.374595}
+    m_Value: {x: 16.738256, y: 31.697594, z: 7.289341}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -588,13 +589,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.007968954, y: 0.99004704, z: -0.12572175, w: 0.06275476}
+    m_Target: {x: -0.00234406, y: -0.99718094, z: 0.06621982, w: -0.035308257}
     speed: 2
-    m_Value: {x: 0.007968951, y: 0.9900467, z: -0.12572171, w: 0.062754735}
+    m_Value: {x: -0.0023440518, y: -0.9971775, z: 0.06621959, w: -0.035308134}
   m_Size:
-    m_Target: 15.866514
+    m_Target: 17.163294
     speed: 2
-    m_Value: 15.866514
+    m_Value: 17.163294
   m_Ortho:
     m_Target: 0
     speed: 2
