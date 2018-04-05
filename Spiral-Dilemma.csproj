@@ -228,6 +228,7 @@
     <Compile Include="Assets\Key.cs" />
     <Compile Include="Assets\Level3Switch.cs" />
     <Compile Include="Assets\Level6Red.cs" />
+    <Compile Include="Assets\level9half.cs" />
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Player2.cs" />
     <Compile Include="Assets\Player3.cs" />
@@ -236,6 +237,7 @@
     <Compile Include="Assets\Player6.cs" />
     <Compile Include="Assets\Player7.cs" />
     <Compile Include="Assets\Player8.cs" />
+    <Compile Include="Assets\Player9.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
