@@ -234,6 +234,7 @@
     <Compile Include="Assets\Player4.cs" />
     <Compile Include="Assets\Player5.cs" />
     <Compile Include="Assets\Player6.cs" />
+    <Compile Include="Assets\Player7.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
