@@ -227,6 +227,7 @@
     <Compile Include="Assets\CaptureTheMonsters\scripts\TimeLimited.cs" />
     <Compile Include="Assets\Key.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\Player2.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
