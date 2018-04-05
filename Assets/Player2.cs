@@ -206,7 +206,6 @@ public class Player2 : MonoBehaviour
 
         if (collision.gameObject.tag == "key")
         {
-            Debug.Log("sample!!!");
             isKey = true;
         }
 
