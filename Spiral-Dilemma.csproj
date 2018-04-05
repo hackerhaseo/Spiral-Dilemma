@@ -226,10 +226,13 @@
     <Compile Include="Assets\CaptureTheMonsters\scripts\Maker.cs" />
     <Compile Include="Assets\CaptureTheMonsters\scripts\TimeLimited.cs" />
     <Compile Include="Assets\Key.cs" />
+    <Compile Include="Assets\level10red.cs" />
+    <Compile Include="Assets\level10switch.cs" />
     <Compile Include="Assets\Level3Switch.cs" />
     <Compile Include="Assets\Level6Red.cs" />
     <Compile Include="Assets\level9half.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\Player10.cs" />
     <Compile Include="Assets\Player2.cs" />
     <Compile Include="Assets\Player3.cs" />
     <Compile Include="Assets\Player4.cs" />
