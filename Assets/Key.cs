@@ -6,11 +6,13 @@ public class Key : MonoBehaviour {
 
     Rigidbody rb;
     BoxCollider bc;
+    Animator ani;
 
 	// Use this for initialization
 	void Start () {
         rb = GetComponent<Rigidbody>();
         bc = GetComponent<BoxCollider>();
+        ani = GetComponent<Animator>();
     }
 	
 	// Update is called once per frame
@@ -24,6 +26,7 @@ public class Key : MonoBehaviour {
         {
             Destroy(rb);
             Destroy(bc);
+            Destroy(ani);
         }
     }
 }
